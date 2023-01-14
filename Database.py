@@ -1,7 +1,7 @@
 #Path
 
 remote_drive = "I:"
-username = "TreeDiagram-Laptop"
+username = "PC"
 
 Blue_Reflection_Path = "\"C:\\Users\\Fung\\Documents\\KoeiTecmo\\BLUE REFLECTION\""
 Blue_Reflection_Remote = "\"{}\\Blue Reflection\"".format(remote_drive)
